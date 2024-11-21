@@ -1,4 +1,12 @@
 body{
     background: rgb(200, 253, 236);
     color: rgb(25, 109, 219);
-}
+}section{
+    background-color: aliceblue;
+    padding-top: 60px;
+    padding: bottom 60px;
+    display: flex;
+    justify-content: center;}
+    header{margin: 5%;
+        text-align: ;
+        color: darkblue;}
