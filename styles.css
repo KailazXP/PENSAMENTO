@@ -1,6 +1,7 @@
 body{
     background: rgb(200, 253, 236);
     color: rgb(25, 109, 219);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }section{
     background-color: aliceblue;
     padding-top: 60px;
